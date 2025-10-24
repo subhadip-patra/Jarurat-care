@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Avinash Jena",
+    "contact": "+91 .....",
+    "gender": "Male",
+    "Bed no": 8
+  },
+  {
+    "id": 2,
+    "name": "Atanu Bera",
+    "contact": "+91 .....",
+    "gender": "Male",
+    "Bed no": 2
+  },
+  {
+    "id": 3,
+    "name": "Subhadip Patra",
+    "contact": "+91 .....",
+    "gender": "Male",
+    "bedno": 4
+  },
+  {
+    "id": 4,
+    "name": "Purba Patra",
+    "contact": "+91 .....",
+    "gender": "Female",
+    "Bed no": 13
+  },
+  {
+    "id": 5,
+    "name": "Rita Jena",
+    "contact": "+91 .....",
+    "gender": "Female",
+    "Bed no": 5
+  }
+]

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Patient Records Dashboard
 
 A simple React app for viewing and managing patient records. Built with Vite, Bootstrap, and mock JSON data.
